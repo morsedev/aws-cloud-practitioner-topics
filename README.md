@@ -419,8 +419,6 @@ Need to know as often used in exam
 - SWF: Simple Workflow Service
 - SNS: Simple Notification Service
 - SQS: Simple Queue Service
-- SES Simple Email Service
-- SSM: Simple Email Service
 - SES: Simple Email Service
 - SSM: Simple Systems Manager
 - RDS: Relation Database Service
