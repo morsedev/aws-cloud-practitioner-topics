@@ -107,7 +107,7 @@ This list is a summary of Andrew Brown's excellent video from freeCodeCamp.org a
 	- Support only for Billing and Account
 	- 7 Trusted advisor checks
 - Developer
-	- $20 / months
+	- $20 / month
 	- Support via email (response takes up to 24h)
 	- No third party support
 	- General guidance < 24h
