@@ -331,6 +331,12 @@ ElastiCache
 	- Low cost
 	- Takes time to upload
 	- Stores in multiple AZ for redundancy
+- S3 Intelligent Tiering
+	- Uses 2 storage types
+	- One for quick acceess, one for low cost
+	- Automatically moves data from one to the other
+	- Costs additional monitoring and automation fee
+	- Good for unknown access patterns
 - Storage Gateway
 	- Hybrid Cloud Storage (on-prem to cloud)
 	- With local caching
