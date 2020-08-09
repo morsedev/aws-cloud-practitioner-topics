@@ -7,14 +7,16 @@ This list is a summary of Andrew Brown's excellent video from freeCodeCamp.org a
 - Regions
 	- e.g. us-east (largest)
 - Availability Zones 
-	- Datacenter owned and run by AWS
+	- Full datacenter owned and run by AWS
+	- Hosts addplications, databases, websites, file storage etc...
 	- Each region has at least 2 AZ
 	- AZs are identified with a number at the end, e.g. us-east1
 	- Ping below 1ms
 - Edge Zones
-	- Datacenter owned by trusted partner
+	- Smaller datacenter owned by trusted partner
 	- Has direct connection to AWS network
 	- Serve requests for CloudFront and Route53
+	- Mostly used for caching static content
 	- S3 buckets and API gateways also use Edge network
 	- Benefit: Low latency as close to user's location
 
