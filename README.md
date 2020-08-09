@@ -261,11 +261,11 @@ This list is a summary of Andrew Brown's excellent video from freeCodeCamp.org a
 - Neptune
 	- Graph DB (Managed)
 - RedShift
+	- Data Warehouse Service
 	- Columnar DB
 	- Petabyte warehouse
 ElastiCache
-	- Redis or
-	- Memcached
+	- Redis or Memcached
 
 ## Provisioning
 - .. is the allocation or creation of resources and services to a customer
