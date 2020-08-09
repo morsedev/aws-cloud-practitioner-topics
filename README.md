@@ -311,14 +311,26 @@ ElastiCache
 	- Launches e.g. EC2 instances or Spot Instances to save money
 
 ## Storage
-- S3
+- S3 Standard
 	- Simple Storage Service
 	- Object storage
 	- Unlimited space
+- S3 Standard IA (Infrequent Access)
+	- For data which is accessed not often
+	- But when accessed needs rapid access
+	- Low cost, high performance
+	- Good fir long term storage and backups
+- S3 OneZone IA
+	- Like S3 Standard IA (Data not often needed but with rapid access)
+	- Lower availability and resilience compared to S3 Standard IA
+	- Stores in only one AZ (other S3 types store in minimum of 3 AZ)
+	- 20% cheaper than S3 Standard IA
+	- Good for secondary backups
 - S3 Glacier
+	- For archiving data (Long term backup)
 	- Low cost
 	- Takes time to upload
-	- Long term backup
+	- Stores in multiple AZ for redundancy
 - Storage Gateway
 	- Hybrid Cloud Storage (on-prem to cloud)
 	- With local caching
