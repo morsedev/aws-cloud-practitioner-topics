@@ -14,7 +14,7 @@ I have also added some additional info from my learning phase that I sumbled upo
 	- Each region has at least 2 AZ
 	- AZs are identified with a number at the end, e.g. us-east1
 	- Ping below 1ms
-- Edge Zones
+- Edge Locations
 	- Smaller datacenter owned by trusted partner
 	- Has direct connection to AWS network
 	- Serve requests for CloudFront (CDN) and Route53 (DNS)
