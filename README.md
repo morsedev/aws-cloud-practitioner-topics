@@ -2,7 +2,9 @@
 
 This list is a summary of Andrew Brown's excellent video from freeCodeCamp.org available at https://www.youtube.com/watch?v=3hLmDS179YE
 
-## General
+I have also added some additional info from my learning phase that I sumbled upon while doing practice test.
+
+## Regions, Availability Zones and Edge Locations
 
 - Regions
 	- e.g. us-east (largest)
