@@ -339,6 +339,11 @@ ElastiCache
 	- Automatically moves data from one to the other
 	- Costs additional monitoring and automation fee
 	- Good for unknown access patterns
+- S3 Transfer Acceleration
+	- Faster file upload via Edge Locations
+	- Edge Locations have optimized connection to AWS network
+	- Good if uploaders are spread all sround the world
+	- Also useful if own upload speed is not maxed out
 - Storage Gateway
 	- Hybrid Cloud Storage (on-prem to cloud)
 	- With local caching
