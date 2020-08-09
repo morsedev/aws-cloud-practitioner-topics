@@ -15,7 +15,7 @@ This list is a summary of Andrew Brown's excellent video from freeCodeCamp.org a
 - Edge Zones
 	- Smaller datacenter owned by trusted partner
 	- Has direct connection to AWS network
-	- Serve requests for CloudFront and Route53
+	- Serve requests for CloudFront (CDN) and Route53 (DNS)
 	- Mostly used for caching static content
 	- S3 buckets and API gateways also use Edge network
 	- Benefit: Low latency as close to user's location
