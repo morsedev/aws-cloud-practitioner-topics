@@ -1,4 +1,4 @@
-# Topics Required for AWS Cloud Practitioner Exam
+# Topic Overview — Required for AWS Cloud Practitioner Exam
 
 This list is a summary of Andrew Brown's excellent video from freeCodeCamp.org available at https://www.youtube.com/watch?v=3hLmDS179YE
 
