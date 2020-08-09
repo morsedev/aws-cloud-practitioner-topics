@@ -367,7 +367,18 @@ ElastiCache
 
 ## Data Recovery
 
-
+- Pilot Light
+	- Idea comes from gas heating
+	- A small flame which is always on and can ignite house heating anytime
+	- In AWS a small portion of your core on-site infrastructure is always being replicated and running simultanously
+	- In case of emergency AWS cloud environment can take over
+- Warm Standby
+	- Extends Pilot Light functionality
+	- A scaled down version of your environment is always running in the background
+	- Faster recovery time as some services are always running
+	- Business critical systems can be duplicated as always on
+- Multi-Site
+	- Runs on AWS *and* on-site in parallel
 
 ## Business Centric Services
 - Amazon Connects
