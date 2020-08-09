@@ -369,7 +369,7 @@ ElastiCache
 
 - Pilot Light
 	- Idea comes from gas heating
-	- A small flame which is always on and can ignite house heating anytime
+	- A small flame which is always on can ignite house heating anytime
 	- In AWS a small portion of your core on-site infrastructure is always being replicated and running simultanously
 	- In case of emergency AWS cloud environment can take over
 - Warm Standby
