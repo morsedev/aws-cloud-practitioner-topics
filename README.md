@@ -321,7 +321,7 @@ ElastiCache
 	- For data which is accessed not often
 	- But when accessed needs rapid access
 	- Low cost, high performance
-	- Good fir long term storage and backups
+	- Good for long term storage and backups
 - S3 OneZone IA
 	- Like S3 Standard IA (Data not often needed but with rapid access)
 	- Lower availability and resilience compared to S3 Standard IA
