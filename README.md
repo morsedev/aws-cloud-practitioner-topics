@@ -8,7 +8,7 @@ This list is a summary of Andrew Brown's excellent video from freeCodeCamp.org a
 	- e.g. us-east (largest)
 - Availability Zones 
 	- Full datacenter owned and run by AWS
-	- Hosts addplications, databases, websites, file storage etc...
+	- Hosts applications, databases, websites, file storage etc...
 	- Each region has at least 2 AZ
 	- AZs are identified with a number at the end, e.g. us-east1
 	- Ping below 1ms
